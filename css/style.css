@@ -1152,6 +1152,25 @@ font-family: 'Source Sans Pro', sans-serif;
   .collapse.in{
       display:block !important;
   }
+
+
+  .navbar-right {
+    float: none !important;
+    background-color: #fff;
+    
+    
+}
+
+
+
+.navbar-default .navbar-nav>li>a {
+  color: #111;
+}
+
+
+.buy-now {
+  color: #fff!important;
+
 }
 
 .navbar-toggle {
@@ -1163,6 +1182,28 @@ font-family: 'Source Sans Pro', sans-serif;
 .navbar-default-black-bg .navbar-toggle {
    color: #111 !important;
 }
+
+
+.navbar-nav {
+    margin: 0px -15px;
+    padding-bottom: 20px;
+     overflow: hidden; 
+}
+
+
+
+.navbar-collapse.in {
+  overflow-y: hidden;
+}
+
+
+}
+
+
+
+
+
+
 
 @media (max-width: 500px) {
 
