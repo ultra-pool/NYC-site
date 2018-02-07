@@ -24,6 +24,8 @@ a:hover {
 }
 
 
+
+
 #preloader{
  	display:block;
 	width: 100%;
@@ -183,7 +185,9 @@ a:hover {
 
 
 
-
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+  max-height: 100%;
+}
 
  
 
@@ -1221,6 +1225,10 @@ font-family: 'Source Sans Pro', sans-serif;
 
 
 @media (max-width: 500px) {
+
+.title-wrap {
+  padding-top: 40px;
+}  
 
 .center-title h1 {
   font-size: 50px;
