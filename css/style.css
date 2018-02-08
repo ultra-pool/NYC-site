@@ -1130,6 +1130,180 @@ font-family: 'Source Sans Pro', sans-serif;
 }
 
 
+.faq-section{
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+#community ul li {
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top: 10px;
+}
+
+#community ul li a i  {
+  color: #fff;
+  font-size: 45px;
+}
+
+
+.btn-link {
+  position: relative;
+  width: 100%;
+  font-size: 20px;
+  color: #fff;
+  background-color: #3184be;
+  border-radius: 2px;
+  text-align: left;
+}
+
+
+.btn-link:hover {
+  color: #fff;
+  text-decoration: none;
+  background-color: #0f75bc;
+
+}
+
+.btn-link:focus {
+  color: #fff;
+  text-decoration: none;
+  background-color: #0f75bc;
+  
+}
+
+
+.btn-link span {
+  position: absolute;
+  right: 5px;
+}
+
+
+.btn {
+  white-space: inherit;
+}
+
+
+.roadmap p {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+
+.roadmap h3, .roadmap h4 {
+  font-weight: 600;
+}
+
+
+.roadmap {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+
+.roadmap ul li {
+  margin-bottom: 10px;
+  font-size: 19px;
+  font-weight: 400;
+  color: #000;
+}
+
+.roadmap ul li ul li {
+  margin-top: 10px;
+  font-size: 17px;
+  color: #888;
+}
+
+
+
+.team-section {
+  padding-bottom: 120px;
+  padding-top: 120px;
+  background-image: url('../img/coinomi.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center; 
+  background-repeat: no-repeat;
+  position: relative;
+    background-attachment: fixed;
+
+}
+
+
+.team-section-text {
+  z-index: 2;
+  position: relative;
+  color: #fff;
+}
+
+.team-section h2 {
+    text-transform: uppercase;
+    margin-bottom: 36px;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+    z-index: 2;
+}
+
+
+.team-section:before {
+  position: absolute;
+    z-index: 0;
+    content: "";
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgb(15, 117, 188);
+        background: linear-gradient(135deg, rgb(15, 117, 188) 0%, rgba(109, 110, 113, 0.81) 100%);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+.team-container {
+  margin-top: 50px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin-bottom: 5px;
+  background-color: #fff;
+  color: #000;
+  margin: 5px;
+
+}
+
+
+
+.dev-span {
+  color: #fff;
+  background-color: #777;
+  border-radius: 20px;
+  padding: 2px 7px 2px 7px;
+}
+
+
+.tl-span {
+  color: #fff;
+  background-color: #81d067;
+  border-radius: 20px;
+  padding: 2px 7px 2px 7px;
+}
+
+
+.team-container i {
+ padding-right: 5px;  
+}
+.team-container a {
+  color: #000;
+  margin-top: 10px;
+}
+
+.team-container img {
+
+  height: 190px;
+
+}
 
 
 
@@ -1266,6 +1440,11 @@ font-family: 'Source Sans Pro', sans-serif;
   top: 50%;
   right:-5px;
   
+}
+
+.buy-now {
+  width: 96px!important;
+    margin-left: 5px!important;
 }
 
 
