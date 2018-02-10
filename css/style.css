@@ -1282,9 +1282,11 @@ font-family: 'Source Sans Pro', sans-serif;
 }
 
 
-.tl-span {
+
+
+.market-span {
   color: #fff;
-  background-color: #81d067;
+  background-color: #1f78b6d9;
   border-radius: 20px;
   padding: 2px 7px 2px 7px;
 }
