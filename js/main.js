@@ -307,17 +307,4 @@ $('.owl-carousel1').owlCarousel({
 
 
 
-function myFunction(x) {
-    if (x.matches) { // If media query matches
-
-    } else {
-         $(".menu-color").removeAttr("data-toggle");
-        $(".menu-color").removeAttr("data-target");
-    }
-}
-
-
-
-var x = window.matchMedia("(max-width: 1136px)")
-myFunction(x) 
-x.addListener(myFunction)
+ 

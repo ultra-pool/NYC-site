@@ -265,7 +265,7 @@ a:hover {
 .nav>li>a {
     position: relative;
     display: block;
-    padding: 21px 9px;
+    padding: 17px 9px;
     margin-right: 5px;
 }
 
@@ -1021,13 +1021,10 @@ font-family: 'Source Sans Pro', sans-serif;
 
 
 
-.buy-now:hover {
-  background-color: #212121!important;
-  color: #fff!important;
- }
+
 
  .buy-now:focus {
-  background-color: #212121!important;
+  background-color: #0f75bc!important;
   color: #fff!important;
  }
 
@@ -1326,6 +1323,31 @@ font-family: 'Source Sans Pro', sans-serif;
   font-weight: 600;
   font-size: 18px;
   margin-bottom: 10px;
+}
+
+
+.mining {
+  padding-top: 30px;
+  color: #fff;
+}
+
+
+.mining a {
+  display: inline-block;
+  padding: 3px 6px 3px 6px;
+  color: #fff;
+  border: 1px solid #fff;
+  text-transform: uppercase;
+  margin-right: 3px;
+  margin-left: 3px;
+  transition-property: background;
+    transition-duration: .3s;
+    transition-timing-function: linear;
+}
+
+.mining a:hover {
+  color: #000;
+  background-color: #fff;
 }
 
 
