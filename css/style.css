@@ -33,7 +33,7 @@ a:hover {
 	top: 0;
 	left: 0;
 	background: #fff;
-	z-index: 999999;	
+	z-index: 999999;
 }
 
 .loader{
@@ -49,17 +49,17 @@ a:hover {
   border-right: 1px solid rgba(0,0,0, 0.2);
   border-bottom: 1px solid rgba(0,0,0, 0.2);
   border-left: 1px solid rgba(0,0,0, 0.2);
-  
+
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  
+
    -webkit-animation: spinner 700ms infinite linear;
    -moz-animation: spinner 700ms infinite linear;
    -ms-animation: spinner 700ms infinite linear;
    -o-animation: spinner 700ms infinite linear;
    animation: spinner 700ms infinite linear;
-  
+
   z-index: 99999999;
 }
 
@@ -144,7 +144,7 @@ a:hover {
   font-size: 13px;
   letter-spacing: 0.10em;
   font-family: 'Source Sans Pro', sans-serif;
-  
+
  }
 
  .navbar-padding {
@@ -152,7 +152,7 @@ a:hover {
 
  }
 
- 
+
  .navbar-default  {
   background-color: transparent;
   border: none;
@@ -163,7 +163,7 @@ a:hover {
     -moz-transition: all 0.4s ease;
     -o-transition: all 0.4s ease;
     transition: all 0.4s ease;
-  
+
  }
 
  .navbar-default-black-bg {
@@ -171,7 +171,7 @@ a:hover {
   color: #000!important;
   transition-property: background;
   transition-duration: .3s;
-    transition-timing-function: linear; 
+    transition-timing-function: linear;
     -webkit-transition: all 0.4s ease;
     -moz-transition: all 0.4s ease;
     -o-transition: all 0.4s ease;
@@ -188,13 +188,13 @@ a:hover {
   max-height: 100%;
 }
 
- 
+
 
  .navbar-default .navbar-nav>li>a {
   color: #6d6e71;
-  
+
  }
- 
+
 
  .navbar-default .navbar-nav>li>a:hover {
   color: #000;
@@ -202,7 +202,7 @@ a:hover {
 
  .navbar-default .navbar-nav>li>a:focus {
   color: #000;
-  
+
  }
 
 
@@ -256,7 +256,7 @@ a:hover {
 
 
 .navbar-collapse {
-  webkit-box-shadow: inset 0 0px 0; 
+  webkit-box-shadow: inset 0 0px 0;
   border: none;
   box-shadow: none;
 
@@ -292,7 +292,7 @@ a:hover {
    -webkit-transition: color 0.3s linear;
    -ms-transition: color 0.3s linear;
    transition: color 0.3s linear;
-} 
+}
 
 
 .navbar-default .navbar-toggle:hover {
@@ -324,7 +324,7 @@ a:hover {
 
 .buy-now {
     border-radius: 1px;
-    
+
     margin-top: 7px;
    border-color: #0f75bc!important;
    padding: 10px 20px 10px 20px!important;
@@ -345,7 +345,7 @@ a:hover {
   background-image: url('../img/bg.jpg');
   background-attachment: fixed;
   background-size: cover;
-  background-position: center center; 
+  background-position: center center;
   background-repeat: no-repeat;
   height: 100vh;
   position: relative;
@@ -358,7 +358,7 @@ a:hover {
     table-layout: fixed;
     height: 100%;
     width: 100%;
-    position: relative; 
+    position: relative;
     z-index: 200;
     background: rgb(15, 117, 188);
     background: -moz-linear-gradient(45deg, rgb(15, 117, 188) 0%, rgba(15, 117, 188, 0.28) 100%);
@@ -367,7 +367,7 @@ a:hover {
     background: -o-linear-gradient(45deg, rgb(15, 117, 188) 0%, rgba(15, 117, 188, 0.28) 100%);
     background: -ms-linear-gradient(45deg, rgb(15, 117, 188) 0%, rgba(15, 117, 188, 0.28) 100%);
     background: linear-gradient(45deg, rgb(15, 117, 188) 0%, rgba(15, 117, 188, 0.28) 100%);
-  
+
   position: relative;
 }
 
@@ -386,7 +386,7 @@ a:hover {
 }
 
 .center-title {
-  
+
       margin-right: auto;
     margin-left: auto;
     padding-left: 15px;
@@ -423,7 +423,7 @@ a:hover {
 }
 
 .buttons-header {
-  
+
 
   text-align: center;
   padding-top: 20px;
@@ -439,7 +439,7 @@ a:hover {
 
 .buttons-header ul li {
   display: inline-block;
-  
+
   margin-left: 5px;
   margin-right: 5px;
 }
@@ -478,7 +478,7 @@ a:hover {
 
 
 .buttons-header>ul>li a:hover {
-  background-color: rgba(255, 255, 255, 0.9); 
+  background-color: rgba(255, 255, 255, 0.9);
   color: #252525;
 }
 
@@ -509,7 +509,7 @@ a:hover {
   text-align: center;
   color: #111;
   font-weight: 600;
-  
+
 }
 
 
@@ -525,7 +525,7 @@ a:hover {
   display: inline-block;
   color: #444;
   border: solid 2px #444;
-  padding: 10px; 
+  padding: 10px;
   border-radius: 25px;
 }
 
@@ -574,7 +574,7 @@ a:hover {
   font-size: 1em;
  }
 
- 
+
 
  .first-specs {
   overflow: auto;
@@ -595,7 +595,7 @@ a:hover {
   text-transform: uppercase;
     margin-bottom: 36px;
     text-align: center;
-    
+
     font-weight: 600;
     z-index: 2;
 
@@ -609,7 +609,7 @@ a:hover {
   background-image: url('../img/coinomi.jpg');
   background-attachment: fixed;
   background-size: cover;
-  background-position: center center; 
+  background-position: center center;
   background-repeat: no-repeat;
   position: relative;
     background-attachment: fixed;
@@ -652,7 +652,7 @@ a:hover {
 
 
 .buttons {
-  
+
 font-family: 'Source Sans Pro', sans-serif;
   text-align: center;
   padding-top: 20px;
@@ -669,7 +669,7 @@ font-family: 'Source Sans Pro', sans-serif;
 .buttons ul li {
   display: inline-block;
   width: 200px;
-  
+
   margin-left: 5px;
   margin-right: 5px;
 }
@@ -714,7 +714,7 @@ font-family: 'Source Sans Pro', sans-serif;
     font-size: 17px;
 
     font-family: 'Source Sans Pro', sans-serif;
-    
+
 }
 
 
@@ -727,7 +727,7 @@ font-family: 'Source Sans Pro', sans-serif;
 
 
 .buttons>ul>li a:hover {
-  background-color: rgba(255, 255, 255, 0.9); 
+  background-color: rgba(255, 255, 255, 0.9);
   color: #252525;
 }
 
@@ -773,7 +773,7 @@ font-family: 'Source Sans Pro', sans-serif;
 .buttons-wallet>ul>li {
    display: inline-block;
   width: 221px;
-  
+
   margin-left: 5px;
   margin-right: 5px;
   list-style-type: none;
@@ -784,12 +784,12 @@ font-family: 'Source Sans Pro', sans-serif;
 .button-wallets>ul {
   padding-left: 0px;
   margin-bottom: 0px;
-  
+
 }
 
 .button-wallets>ul>li {
   list-style-type: none;
-  
+
 }
 
 
@@ -825,7 +825,7 @@ font-family: 'Source Sans Pro', sans-serif;
 }
 
 .buttons-wallet>ul>li> a:hover {
-  background-color: rgba(255, 255, 255, 0.9); 
+  background-color: rgba(255, 255, 255, 0.9);
   color: #252525;
 }
 
@@ -836,7 +836,7 @@ font-family: 'Source Sans Pro', sans-serif;
   background-image: url('../img/bitt-bg.jpg');
   background-attachment: fixed;
   background-size: cover;
-  background-position: center center; 
+  background-position: center center;
   background-repeat: no-repeat;
   position: relative;
     background-attachment: fixed;
@@ -912,7 +912,7 @@ font-family: 'Source Sans Pro', sans-serif;
 }
 
 .new-container a {
-   
+
     display: inline-block;
     color: #fff;
     background: #0f75bc;
@@ -930,14 +930,14 @@ font-family: 'Source Sans Pro', sans-serif;
   position:absolute;
   top: 50%;
   left:-20px;
-  
+
 }
 
 .prod-ctrl-r {
   position:absolute;
   top: 50%;
   right:-20px;
-  
+
 }
 
 
@@ -948,7 +948,7 @@ font-family: 'Source Sans Pro', sans-serif;
   background-image: url('../img/bitt-bg.jpg');
   background-attachment: fixed;
   background-size: cover;
-  background-position: center center; 
+  background-position: center center;
   background-repeat: no-repeat;
   position: relative;
     background-attachment: fixed;
@@ -991,7 +991,7 @@ font-family: 'Source Sans Pro', sans-serif;
 
 
 .buy-add-text ul {
-  
+
   padding-left: 0px;
 }
 
@@ -1007,8 +1007,8 @@ font-family: 'Source Sans Pro', sans-serif;
 
 .buy-add-text a {
    display: block;
-    
-    
+
+
 }
 
 
@@ -1068,8 +1068,8 @@ font-family: 'Source Sans Pro', sans-serif;
 }
 
 .market-container a {
-   
-    
+
+
 }
 
 
@@ -1116,7 +1116,7 @@ font-family: 'Source Sans Pro', sans-serif;
 
 
 .footer p {
-    
+
     padding-top: 70px;
 }
 
@@ -1165,7 +1165,7 @@ font-family: 'Source Sans Pro', sans-serif;
   color: #fff;
   text-decoration: none;
   background-color: #0f75bc;
-  
+
 }
 
 
@@ -1218,7 +1218,7 @@ font-family: 'Source Sans Pro', sans-serif;
   background-image: url('../img/coinomi.jpg');
   background-attachment: fixed;
   background-size: cover;
-  background-position: center center; 
+  background-position: center center;
   background-repeat: no-repeat;
   position: relative;
     background-attachment: fixed;
@@ -1290,7 +1290,7 @@ font-family: 'Source Sans Pro', sans-serif;
 
 
 .team-container i {
- padding-right: 5px;  
+ padding-right: 5px;
 }
 .team-container a {
   color: #000;
@@ -1350,7 +1350,6 @@ font-family: 'Source Sans Pro', sans-serif;
   background-color: #fff;
 }
 
-
 @media (max-width: 1136px) {
   .navbar-header {
       float: none;
@@ -1391,8 +1390,8 @@ font-family: 'Source Sans Pro', sans-serif;
   .navbar-right {
     float: none !important;
     background-color: #fff;
-    
-    
+
+
 }
 
 
@@ -1421,7 +1420,7 @@ font-family: 'Source Sans Pro', sans-serif;
 .navbar-nav {
     margin: 0px -15px;
     padding-bottom: 20px;
-     overflow: hidden; 
+     overflow: hidden;
 }
 
 
@@ -1443,7 +1442,7 @@ font-family: 'Source Sans Pro', sans-serif;
 
 .title-wrap {
   padding-top: 40px;
-}  
+}
 
 .center-title h1 {
   font-size: 50px;
@@ -1473,14 +1472,14 @@ font-family: 'Source Sans Pro', sans-serif;
   position:absolute;
   top: 50%;
   left:-5px;
-  
+
 }
 
 .prod-ctrl-r {
   position:absolute;
   top: 50%;
   right:-5px;
-  
+
 }
 
 .buy-now {
