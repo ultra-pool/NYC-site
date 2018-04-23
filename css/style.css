@@ -1081,6 +1081,13 @@ nav {
   padding: 2px 7px 2px 7px;
 }
 
+.merchants-span {
+  color: #fff;
+  background-color: #0faab6d9;
+  border-radius: 20px;
+  padding: 2px 7px 2px 7px;
+}
+
 .social-span {
   color: #fff;
   background-color: #6f78b6d9;
